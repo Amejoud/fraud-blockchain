@@ -207,13 +207,15 @@ Ce projet peut être utilisé dans plusieurs domaines :
 ## 📸 Captures d'Écran
 
 ### Dashboard Principal
-*(Les captures d'écran seront ajoutées prochainement)*
+<img width="1370" height="811" alt="image" src="https://github.com/user-attachments/assets/b1477039-3263-41f2-be20-f775e77a9aaf" />
 
 ### Statistiques et Graphiques
-*(Les captures d'écran seront ajoutées prochainement)*
+<img width="1370" height="796" alt="image" src="https://github.com/user-attachments/assets/2837bc62-0696-41e6-b530-645ea5747cfb" />
+
 
 ### Informations Blockchain
-*(Les captures d'écran seront ajoutées prochainement)*
+<img width="1197" height="480" alt="image" src="https://github.com/user-attachments/assets/4b463bc2-df7b-430d-95f6-64cb5563c184" />
+
 
 ---
 
@@ -240,45 +242,8 @@ La licence MIT permet :
 - ✅ Utilisation privée
 
 ---
-
-## 👤 Auteur
-
-**Amejoud**  
-📧 Projet universitaire - Systèmes Distribués & Blockchain  
-🎓 Rôle : Intégration, Exécution et Déploiement  
-🔗 GitHub : https://github.com/Amejoud
-
 ---
 
-## 🙏 Remerciements
-
-Projet réalisé dans le cadre du cours **Systèmes Distribués & GPU**.
-
-Remerciements particuliers pour :
-- La communauté Python pour les bibliothèques utilisées
-- CustomTkinter pour l'interface moderne
-- Matplotlib pour les visualisations
-
----
-
-## 📞 Contact
-
-Pour toute question ou suggestion :
-- 📧 Contactez l'auteur via GitHub
-- 💬 Ouvrez une **Issue** sur le dépôt
-
----
-
-<div align="center">
-
-**⭐ Si ce projet vous plaît, n'hésitez pas à mettre une étoile sur GitHub !**
-
-Made with ❤️ using Python & Blockchain
-
-[🔝 Retourner en haut](#-système-de-détection-de-fraude-avec-blockchain)
-
-</div>
-```
 
 ---
 
